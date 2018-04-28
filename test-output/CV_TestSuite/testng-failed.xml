@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [CV_TestSuite]">
+  <test name="Master Script(failed)">
+    <classes>
+      <class name="com.charter.sb.controllers.MasterScript">
+        <methods>
+          <include name="FnMainTest"/>
+          <include name="tearDown"/>
+          <include name="getConfigValues"/>
+        </methods>
+      </class> <!-- com.charter.sb.controllers.MasterScript -->
+    </classes>
+  </test> <!-- Master Script(failed) -->
+</suite> <!-- Failed suite [CV_TestSuite] -->

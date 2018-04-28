@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CV_TestSuite" duration-ms="1021283" started-at="2016-11-03T23:44:44Z" finished-at="2016-11-04T00:01:45Z">
+    <groups>
+    </groups>
+    <test name="Master Script" duration-ms="1021283" started-at="2016-11-03T23:44:44Z" finished-at="2016-11-04T00:01:45Z">
+      <class name="com.charter.sb.controllers.MasterScript">
+        <test-method status="PASS" signature="getConfigValues()[pri:0, instance:com.charter.sb.controllers.MasterScript@8bd1b6a]" name="getConfigValues" is-config="true" duration-ms="27" started-at="2016-11-03T17:44:44Z" finished-at="2016-11-03T17:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConfigValues -->
+        <test-method status="PASS" signature="FnMainTest()[pri:0, instance:com.charter.sb.controllers.MasterScript@8bd1b6a]" name="FnMainTest" duration-ms="1021247" started-at="2016-11-03T17:44:44Z" finished-at="2016-11-03T18:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FnMainTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.charter.sb.controllers.MasterScript@8bd1b6a]" name="tearDown" is-config="true" duration-ms="1" started-at="2016-11-03T18:01:45Z" finished-at="2016-11-03T18:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.charter.sb.controllers.MasterScript -->
+    </test> <!-- Master Script -->
+  </suite> <!-- CV_TestSuite -->
+</testng-results>
